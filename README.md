@@ -1,5 +1,5 @@
-# UX Portfolio
-
+# Clemens' UX Portfolio
+!(https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl/blob/master/assets/Me.JPEG)
 About me...
 
 ## UX Team Project
