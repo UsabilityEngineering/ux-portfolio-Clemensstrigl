@@ -1,6 +1,8 @@
 # Clemens' UX Portfolio
-!(https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl/blob/master/assets/Me.JPEG)
-About me...
+![This is me](https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl/blob/master/assets/Me.JPEG?raw=true)
+
+About me:
+
 
 ## UX Team Project
 
