@@ -12,3 +12,7 @@ For one of our labs we were tasked with driving the robot around in a loop in th
 ![Software and robot](https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl/blob/master/assets/IMG_5658.jpg?raw=true)
 
 ![Multiple terminals](https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl/blob/master/assets/IMG_5667.jpg?raw=true)
+
+![Config Terminal](https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl/blob/master/assets/IMG_5670.jpg?raw=true)
+
+![Launch Terminal](https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl/blob/master/assets/IMG_5673.jpg?raw=true)
