@@ -23,7 +23,7 @@ On the robot it self, one has to start the ROS client side service so that allow
 
 A nother massive unconventional design in the software is the actual driving. To maneuver the robot you would use AWSD and X to move the robot in all directions and s to stop it all together. In almost all applications that employ the AWSD movability model, if no key is pressed no movement will be detected but if a button is pressed then its 100% movement. With the robot it is vastly different. Instead of the buttons controling the position of the robot, it controls the velocity. Each button press increases or decreases the velocity meaing that in order to get back down to 0 velocity, one would either have to entirly stop the robot or hope that the velocity step size is accurate enough to bring one back to 0. 
 
-Finally, the robot does not have a camera installed forcing us to have to walk around with 
+Finally, the robot does not have a camera installed forcing us to have to walk around with robot in order for us to see how where the robot is going accruately. In our case we thankfully had a laptop which made all that possible but even other groups that did not have one, were forced to use a desktop which made remote telecomunication extremely hard to do precisely. 
 
 
 
