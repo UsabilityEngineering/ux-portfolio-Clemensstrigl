@@ -5,9 +5,9 @@ ROS: Robotics Operating System
 In my robotics class, we interact with robots that can maneuver and map the 3D space around them. This requires us to interact and talk with the onboard Raspberry Pi and the microcontroller in order to do the tasks that we want the robot to do. 
 
 ![Robot](https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl/blob/master/assets/IMG_5656.jpg?raw=true)
-```diff
-# In this image we can see the robot on the ground waiting for connection from our latop which is acting as the robot server. At that stage is just finished map the Ocnnel second floor.
-```
+
+In this image we can see the robot on the ground waiting for connection from our latop which is acting as the robot server. At that stage is just finished map the Ocnnel second floor.
+
 
 For one of our labs, we were tasked with driving the robot around in a loop in the Oconnell and map out the 3D space for autonomous driving in the following labs. When working with ROS, we have to interact with multiple services that they provide in order to make our robot do what we want it to do. 
 
