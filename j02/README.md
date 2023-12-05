@@ -14,7 +14,7 @@ For one of our labs, we were tasked with driving the robot around in a loop in t
 
 ![Software and robot](https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl/blob/master/assets/IMG_5658.jpg?raw=true)
 
-In this image we can see the robot attempting to navigate based on a map that the robot created in the previous image.
+<code style="color:gray;">In this image we can see the robot attempting to navigate based on a map that the robot created in the previous image.</code>
 
 This makes getting everything set up **extremely inefficient** because we have to launch four services alone to even be able to talk to the robot. One service is solely used as a server that will connect all other services together, called ROS core. This process is run on the host machine where all the telecommunication will originate from. All it will do is quietly run in the background while the user will interact with all other servers that will have to be run separately in different terminals.
 
