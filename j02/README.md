@@ -21,7 +21,7 @@ This makes getting everything set up **extremely inefficient** because we have t
 
 ![Config Terminal](https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl/blob/master/assets/IMG_5670.jpg?raw=true)
 
-<code style="color:gray;">In this image we can see the robot attempting to navigate based on a map that the robot created in the previous image.</code>
+<code style="color:gray;">In this image we can see the configuration values of the robot for navigation. Here the UI could be drastically improved to make everything more legible allow easier edits of the actual values.</code>
 
 ![Multiple terminals](https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl/blob/master/assets/IMG_5667.jpg?raw=true)
 
