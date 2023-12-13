@@ -6,8 +6,9 @@ Hello My name is Clemens Strigl. I am a Computer Science major in my last semest
 
 ## UX Team Project
 
-Coming soon.
+VidDiffusion
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Read about my experience with ROS](j01/)
+[Updated experience with ROS](j02/)
