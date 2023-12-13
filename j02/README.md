@@ -6,7 +6,7 @@ In my robotics class, we interact with robots that can maneuver and map the 3D s
 
 ![Robot](https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl/blob/master/assets/IMG_5656.jpg?raw=true) 
 
-<code style="color:gray;"> In this image we can see the robot on the ground waiting for connection from our latop which is acting as the robot server. we are about to start navigation using the map displayed on the screen.</code>
+<code style="color:gray;"> In this image we can see the robot on the ground waiting for connection from our latop which is acting as the robot server. Here we are about to start navigation using the map displayed on the screen.</code>
 
 
 
