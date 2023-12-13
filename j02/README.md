@@ -25,7 +25,7 @@ This makes getting everything set up **extremely inefficient** because we have t
 
 ![Multiple terminals](https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl/blob/master/assets/IMG_5667.jpg?raw=true)
 
-<code style="color:gray;">In this image we can see the robot attempting to navigate based on a map that the robot created in the previous image.</code>
+<code style="color:gray;">In this image we can see the robot attempting to navigate through the map but it has somehow found its self within the map section that is not drivable and defined. Here the program straight lacks the ability within the UI to readjust the map. We had to completely restart all navigation and hope that that issue does not occure again. Noo tools are available for such a correction.</code>
 
 ![Launch Terminal](https://github.com/UsabilityEngineering/ux-portfolio-Clemensstrigl/blob/master/assets/IMG_5673.jpg?raw=true)
 
