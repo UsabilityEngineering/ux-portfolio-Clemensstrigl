@@ -11,4 +11,5 @@ VidDiffusion
 ## UX Journal
 
 [Read about my experience with ROS](j01/)
+
 [Updated experience with ROS](j02/)
